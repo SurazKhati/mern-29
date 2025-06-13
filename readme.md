@@ -33,4 +33,8 @@ e. Add tracking
 f. Commit
 - git commit -m "your message"
 --------------Push------------
+
+g. Git push Operation
+- git push <RemoteName> <branchName>[:remoteBranch]
 --------------Pull------------
+h. git pull <RemoteName><RemoteBranchName>

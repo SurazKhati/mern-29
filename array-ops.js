@@ -2,7 +2,7 @@ let allUsers = [];
 
 const userObj = {
     name: "User Name",
-    email: : "name2USER.COM"
+    email: "name2USER.COM"
 }
 
 // INSERT
