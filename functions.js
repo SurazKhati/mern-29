@@ -54,3 +54,7 @@ const d = 11;
 const e = 22;
 const f = a + b;
 console.log(f);
+
+
+// function continue on another day after git lecture
+//javascript ma function ekdamai nai jaroori xa 
